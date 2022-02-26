@@ -1,19 +1,19 @@
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');
 
-* {
+*{
 	margin: 0;
 	box-sizing: border-box;
 	outline: none;
 }
-
-body {
+body{
 	font-family: 'Dosis', sans-serif;
 	font-weight: 400;
 	color: #fff;
 	overflow-x: hidden;
 	overflow: hidden;
 	background-color: #071F30;
+	
 }
 h1,h2,h3,h4,h5,h6{
 	font-weight: normal;
@@ -85,4 +85,11 @@ header ul li a{
 }
 .home .btn:hover{
 	background-color: #ffffff40;
+}
+img{
+	display: inline-blocks;
+    width: 200px;
+	height: 280px;
+
+	
 }
