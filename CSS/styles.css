@@ -1,13 +1,17 @@
+/*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');
 
-*{
-    margin: 0;
-    box-shadow: border-box;
-    outline: none;
+* {
+	margin: 0;
+	box-sizing: border-box;
+	outline: none;
 }
-body{
-    font-family: 'Dosis' ,sans-serif;
-    font-weight: 400;
-    color: #fff;
-    overflow-x: hidden;
-    background-color: #071f30;
+
+body {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 400;
+	color: #fff;
+	overflow-x: hidden;
+	overflow: hidden;
+	background-color: #071F30;
+}
