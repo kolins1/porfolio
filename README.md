@@ -8,13 +8,13 @@
 
 # Author
 
-## Collins KIpkurui Rotich
+## Collins Kipkurui Rotich
 
 # Technology used
 
 ## HTML - which was used to build the structure of the pages.
 
-## CSS - which was used to styke the pages.
+## CSS - which was used to style the pages.
 
 # Requirements
 
