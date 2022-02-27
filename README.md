@@ -22,6 +22,10 @@
 
 ## An access to the internet
 
+# links to other projects
+
+## https://github.com/kolins1/js-project
+
 # live link
 
 # conctact
