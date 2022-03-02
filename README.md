@@ -1,60 +1,47 @@
-# project name
+# Title
 
-## Portfolio
+## Portfolio Landing Page
 
-# Description
+# Table of Content
+
+### Description
+
+### installation
+
+### Requirements
+
+### installation Process
+
+### Technoligies Used
+
+### Licence
+
+### Authors Info
+
+# Overall Project Description
 
 ## This is a website that shows my portfolio.It contains all my background information.
 
-# Author
+# Languages and Frameworks
 
-## Collins Kipkurui Rotich
+## HTML
 
-# Technology used
+## CSS
+
+# Technoligies Used
 
 ## HTML - which was used to build the structure of the pages.
 
 ## CSS - which was used to style the pages.
 
-# Requirements
-
-## computer
-
-## An access to the internet
-
-# links to other projects
-
-## https://github.com/kolins1/js-project
-
-# live link
+# live site
 
 ## https://github.com/kolins1/porfolio.git
 
-# conctact
+# Licence
 
-## ckipkurui77@gmail.com
+## MIT LICENCE
 
-# license info
+# Author
 
-## MIT License
-
-Copyright (c) [2022] [Collins KIpkurui]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Collins K. Rotich
