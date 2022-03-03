@@ -6,10 +6,6 @@
 	box-sizing: border-box;
 	outline: none;
 }
-html::-webkit-scrollbar{
-	width: 10px;
-}
-
 
 body{
 	font-family: 'Dosis', sans-serif;
@@ -18,7 +14,7 @@ body{
 	overflow-x: hidden;
 	overflow: hidden;
 	background-color: #071F30;
-	background-size: 50%;
+	background-size: cover;
 	
 	
 }
@@ -88,10 +84,6 @@ h6{
 	text-transform: uppercase;
 } 
 h2{
-	font-size: 20px;
-
-}
-h7{
 	font-size: 20px;
 }
 
