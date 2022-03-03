@@ -77,10 +77,19 @@ header ul li a{
 	color: #8d9eaa;
 	margin: 30px 0 60px;
 }
+h6{
+	font-size: 32px;
+	text-transform: uppercase;
+} 
+h2{
+	font-size: 20px;
+
+}
+
 img{
 	display: flex;
     width: 400px;
-	height: 480px;
+	height: 600px;
 	margin-left: 1px;
 	margin-right: 1px;
 }
@@ -89,4 +98,5 @@ img{
 	color: #fff;
 	bottom: 35px;
 	font-size: 14px; 
+	text-align: center;
 }
